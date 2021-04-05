@@ -14,7 +14,7 @@ class Config(object):
 	LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL"))
 	ABOUT_BOT_TEXT = f"""
 This is Permanent Files Store Bot!
-Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
+Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link bot by @MTY_IZ
 
 🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
 
@@ -24,11 +24,11 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Owner:** @MTY_IZ
 
-👥 **Support Group:** [Linux Repositories](https://t.me/linux_repo)
+👥 **Support Group:** [MV Discussion](https://t.me/movieviewerdiscussiongroup)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Discovery_Updates)
+📢 **Updates Channel:** [MOVIE VIEWERS](https://t.me/movieforyou99)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @AbirHasan2005
